@@ -12,7 +12,7 @@ public class Vehicle {
             System.out.println("Skrrrrtt");
         }
     }
-    static class motorcycle implements Drive {
+    static class Motorcycle implements Drive {
         public void start() {
             System.out.println("Nyoooooooooom");
         }
